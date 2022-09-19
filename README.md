@@ -1,4 +1,4 @@
-# flutter_calculator
+# Flutter Calculator
 
 Retro-inspired calculator
 
